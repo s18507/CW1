@@ -1,2 +1,2 @@
 # CW1
- Anastasiia Koval, 14c, s18507
+ Anastasiia Koval, 14c, arr
